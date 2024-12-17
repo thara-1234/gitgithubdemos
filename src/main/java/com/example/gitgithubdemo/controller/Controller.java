@@ -1,2 +1,4 @@
-package com.example.gitgithubdemo.controller;public class Controller {
+package com.example.gitgithubdemo.controller;
+
+public class Controller {
 }
